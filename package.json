@@ -1,5 +1,5 @@
 {
-  "name": "@ciarangreen/child-spa",
+  "name": "ciarangreen_child-spa",
   "version": "0.1.0",
   "scripts": {
     "serve": "vue-cli-service serve",
